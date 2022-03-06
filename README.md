@@ -1,1 +1,1 @@
-# C-print-star-pattern-
+# C-print-star-pattern
